@@ -12,5 +12,5 @@ Wait for symbol data to load before considering results.
 ## Sources
 
 - First mention of idea (Lithuanian): http://www.prekybaforex.lt/ekstremali-rizika-ekstremali-graza-2/
-- Develoepr's site: http://algotrade.co/
+- Develoepr's site: http://www.talaikis.com/
 - SymbolsLib: https://www.mql5.com/en/code/9102
